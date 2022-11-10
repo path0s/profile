@@ -1,6 +1,6 @@
 ## About Me 
 <div align="left">
-  <h2><b>I'm Path0s<br/>ICT Engineering Student  & Junior Developer</b/h2>
+  <h2><b>I'm Path0s<br/>ICT Engineering Student & Junior Developer</b/h2>
 </div>
   
 - 🍕 I'm livigin in Italy  
