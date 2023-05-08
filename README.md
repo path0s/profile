@@ -4,7 +4,6 @@
 </div>
   
 - 🍕 I'm livigin in Italy  
-- 💼 I’m currently working on [Di.Tech S.p.A.](https://www.ditechonline.it/) as apprenticeship
 - ⚙️ I attend ICT Engineering Student at [@unife](https://www.unife.it/it)
 
 ## Programming Languages  
